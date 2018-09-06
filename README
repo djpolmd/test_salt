@@ -1,0 +1,6 @@
+To run test need a pass thrue:
+1. Install python
+2. Install pip (apt-get pip)
+4. Install Selenium
+5. Download and un-tar webdriver for mozzila to usr/bin
+6. Run and enjoy from comant python test.py
