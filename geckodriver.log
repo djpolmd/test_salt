@@ -1,0 +1,135 @@
+1536226224867	geckodriver	INFO	geckodriver 0.20.1
+1536226224873	geckodriver	INFO	Listening on 127.0.0.1:33919
+1536226225878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lk3ckUkC7TS6"
+1536226228745	Marionette	INFO	Listening on port 36125
+1536226228796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://my.fibank.bg/EBank/dynamic/bundles/app-script-dynamic.js?v=20180905173145, line 16360: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:3100): dconf-WARNING **: 12:30:32.613: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 3100, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536226264255	geckodriver	INFO	geckodriver 0.20.1
+1536226264261	geckodriver	INFO	Listening on 127.0.0.1:53385
+1536226265265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LX09ax4cFTgm"
+1536226267450	Marionette	INFO	Listening on port 40649
+1536226267479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://my.fibank.bg/EBank/dynamic/bundles/app-script-dynamic.js?v=20180905173145, line 16360: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:3297): dconf-WARNING **: 12:31:10.919: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536226525733	geckodriver	INFO	geckodriver 0.20.1
+1536226525739	geckodriver	INFO	Listening on 127.0.0.1:52065
+1536226526743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LXKiiMTbAQDQ"
+1536226529033	Marionette	INFO	Listening on port 33339
+1536226529056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://my.fibank.bg/EBank/dynamic/bundles/app-script-dynamic.js?v=20180905173145, line 16360: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:3766): dconf-WARNING **: 12:35:32.609: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536226720713	geckodriver	INFO	geckodriver 0.20.1
+1536226720719	geckodriver	INFO	Listening on 127.0.0.1:40865
+1536226721723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jo4AKuUVtWZO"
+1536226723970	Marionette	INFO	Listening on port 41495
+1536226724072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://my.fibank.bg/EBank/dynamic/bundles/app-script-dynamic.js?v=20180905173145, line 16360: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:3991): dconf-WARNING **: 12:38:47.474: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536227318954	geckodriver	INFO	geckodriver 0.20.1
+1536227318960	geckodriver	INFO	Listening on 127.0.0.1:53893
+1536227319964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1hOKJXELnLPE"
+1536227323015	Marionette	INFO	Listening on port 41213
+1536227323086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://my.fibank.bg/EBank/dynamic/bundles/app-script-dynamic.js?v=20180905173004, line 16360: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:4522): dconf-WARNING **: 12:48:46.435: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 4449, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
